@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D994EDF1-0CBB-426A-81A9-621BD45D6725}|E-Commerce\\E-Commerce.csproj|c:\\users\\m345s\\desktop\\e-commerce-master\\e-commerce\\e-commerce\\web\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D994EDF1-0CBB-426A-81A9-621BD45D6725}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\web\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D994EDF1-0CBB-426A-81A9-621BD45D6725}|E-Commerce\\E-Commerce.csproj|C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D994EDF1-0CBB-426A-81A9-621BD45D6725}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\E-Commerce\\web\\css\\style.css",
+              "RelativeDocumentMoniker": "E-Commerce\\web\\css\\style.css",
+              "ToolTip": "C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\E-Commerce\\web\\css\\style.css",
+              "RelativeToolTip": "E-Commerce\\web\\css\\style.css",
+              "ViewState": "AQIAAIMOAAAAAAAAAAAmwJ4OAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T09:03:42.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\M345S\\Desktop\\E-Commerce-master\\E-Commerce\\E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commerce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T08:58:49.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
